@@ -1,0 +1,10 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Coverage.py artifacts
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
